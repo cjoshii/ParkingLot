@@ -1,2 +1,2 @@
-ParkingLot/obj/*
-ParkingLot/bin/*
+obj/**
+bin/**
